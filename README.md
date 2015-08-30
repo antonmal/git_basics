@@ -3,7 +3,7 @@
 * I am training to become a pro developer
 * I am learning most top languages/frameworks/technologies
 *   Ruby, ROR, PHP, Zend, Python for backend
-*   JavaScript, jQuery, Angular.js, Node.js for client-side interaction & more
+*   JavaScript, CoffeeScript, jQuery, Angular.js, Node.js for client-side interaction & more
 *   CSS3, SASS, LESS, Bootstrap, FontAwesome for applying styles to HTML pages
 *   mySQL, sqlite, mongoDB for databases
 *   JSON, XML for API interactions
